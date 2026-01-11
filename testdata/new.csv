@@ -1,0 +1,5 @@
+id,name,price,quantity,discount_rate
+SKU-042,Widget,34.99,85,0.1
+SKU-108,Gadget v2,49.99,50,0.15
+SKU-201,New Widget,29.99,100,0.05
+SKU-202,Super Gadget,149.99,50,0.2
