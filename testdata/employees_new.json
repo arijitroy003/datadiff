@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "EMP-1000",
+    "name": "Diana Smith",
+    "email": "emp1000@company.com",
+    "department": "Finance",
+    "salary": 74489.19,
+    "hire_date": "2021-12-04",
+    "active": true,
+    "performance_score": 4.7
+  },
+  {
+    "id": "EMP-1001",
+    "name": "Sam Miller",
+    "email": "emp1001@company.com",
+    "department": "Engineering",
+    "salary": 52979.72,
+    "hire_date": "2021-04-17",
+    "active": true,
+    "performance_score": 4.2
+  },
+  {
+    "id": "EMP-1002",
+    "name": "Rose Brown",
+    "email": "emp1002@company.com",
+    "department": "Support",
+    "salary": 72044.06,
+    "hire_date": "2022-01-25",
+    "active": true,
+    "performance_score": 4.9
+  },
+  {
+    "id": "EMP-1003",
+    "name": "Noah Garcia",
+    "email": "emp1003@company.com",
+    "department": "Finance",
+    "salary": 70364.41,
+    "hire_date": "2022-02-03",
+    "active": false,
+    "performance_score": 5.0
+  },
+  {
+    "id": "EMP-1004",
+    "name": "Diana Garcia",
+    "email": "emp1004@company.com",
+    "department": "Operations",
+    "salary": 110372.6,
+    "hire_date": "2020-12-15",
+    "active": true,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-1006",
+    "name": "Bob Brown",
+    "email": "emp1006@company.com",
+    "department": "Finance",
+    "salary": 148522.15,
+    "hire_date": "2021-02-13",
+    "active": true,
+    "performance_score": 3.5
+  },
+  {
+    "id": "EMP-1007",
+    "name": "Olivia Garcia",
+    "email": "emp1007@company.com",
+    "department": "Marketing",
+    "salary": 87018.1,
+    "hire_date": "2021-11-09",
+    "active": true,
+    "performance_score": 3.1
+  },
+  {
+    "id": "EMP-1008",
+    "name": "Tina Williams",
+    "email": "emp1008@company.com",
+    "department": "HR",
+    "salary": 66340.25,
+    "hire_date": "2023-05-21",
+    "active": true,
+    "performance_score": 4.5
+  },
+  {
+    "id": "EMP-1009",
+    "name": "Kate Smith",
+    "email": "emp1009@company.com",
+    "department": "HR",
+    "salary": 132180.26,
+    "hire_date": "2022-07-09",
+    "active": true,
+    "performance_score": 3.9
+  },
+  {
+    "id": "EMP-1010",
+    "name": "Grace Taylor",
+    "email": "emp1010@company.com",
+    "department": "Operations",
+    "salary": 71262.65,
+    "hire_date": "2023-07-21",
+    "active": false,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-1011",
+    "name": "Eve Jones",
+    "email": "emp1011@company.com",
+    "department": "Marketing",
+    "salary": 74662.75,
+    "hire_date": "2022-12-19",
+    "active": false,
+    "performance_score": 4.8
+  },
+  {
+    "id": "EMP-1012",
+    "name": "Sam Miller",
+    "email": "emp1012@company.com",
+    "department": "Operations",
+    "salary": 71932.08,
+    "hire_date": "2021-09-16",
+    "active": true,
+    "performance_score": 3.4
+  },
+  {
+    "id": "EMP-1013",
+    "name": "Bob Johnson",
+    "email": "emp1013@company.com",
+    "department": "Marketing",
+    "salary": 112744.6,
+    "hire_date": "2023-10-03",
+    "active": false,
+    "performance_score": 4.2
+  },
+  {
+    "id": "EMP-1014",
+    "name": "Maya Taylor",
+    "email": "emp1014@company.com",
+    "department": "R&D",
+    "salary": 102911.43,
+    "hire_date": "2020-11-24",
+    "active": true,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-1015",
+    "name": "Rose Jones",
+    "email": "emp1015@company.com",
+    "department": "Operations",
+    "salary": 70536.78,
+    "hire_date": "2023-03-15",
+    "active": true,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1016",
+    "name": "Ivy Wilson",
+    "email": "emp1016@company.com",
+    "department": "Marketing",
+    "salary": 100768.17,
+    "hire_date": "2020-11-10",
+    "active": true,
+    "performance_score": 3.2
+  },
+  {
+    "id": "EMP-1017",
+    "name": "Eve Garcia",
+    "email": "emp1017@company.com",
+    "department": "Marketing",
+    "salary": 103937.9,
+    "hire_date": "2020-10-11",
+    "active": false,
+    "performance_score": 3.7
+  },
+  {
+    "id": "EMP-1018",
+    "name": "Alice Johnson",
+    "email": "emp1018@company.com",
+    "department": "Operations",
+    "salary": 137872.19,
+    "hire_date": "2022-04-02",
+    "active": true,
+    "performance_score": 3.7
+  },
+  {
+    "id": "EMP-1019",
+    "name": "Sam Johnson",
+    "email": "emp1019@company.com",
+    "department": "Sales",
+    "salary": 123190.76,
+    "hire_date": "2020-09-25",
+    "active": true,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-1020",
+    "name": "Eve Davis",
+    "email": "emp1020@company.com",
+    "department": "Marketing",
+    "salary": 76505.66,
+    "hire_date": "2023-04-18",
+    "active": true,
+    "performance_score": 4.7
+  },
+  {
+    "id": "EMP-1021",
+    "name": "Jack Miller",
+    "email": "emp1021@company.com",
+    "department": "Operations",
+    "salary": 93810.01,
+    "hire_date": "2023-02-08",
+    "active": true,
+    "performance_score": 3.7
+  },
+  {
+    "id": "EMP-1023",
+    "name": "Charlie Smith",
+    "email": "emp1023@company.com",
+    "department": "HR",
+    "salary": 56740.03,
+    "hire_date": "2020-06-03",
+    "active": true,
+    "performance_score": 4.4
+  },
+  {
+    "id": "EMP-1024",
+    "name": "Ivy Davis",
+    "email": "emp1024@company.com",
+    "department": "HR",
+    "salary": 103923.39,
+    "hire_date": "2023-04-26",
+    "active": false,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1025",
+    "name": "Noah Brown",
+    "email": "emp1025@company.com",
+    "department": "Sales",
+    "salary": 59693.08,
+    "hire_date": "2023-06-14",
+    "active": false,
+    "performance_score": 4.9
+  },
+  {
+    "id": "EMP-1026",
+    "name": "Olivia Smith",
+    "email": "emp1026@company.com",
+    "department": "Sales",
+    "salary": 56061.27,
+    "hire_date": "2022-02-08",
+    "active": true,
+    "performance_score": 4.6
+  },
+  {
+    "id": "EMP-1027",
+    "name": "Grace Wilson",
+    "email": "emp1027@company.com",
+    "department": "R&D",
+    "salary": 67532.57,
+    "hire_date": "2021-05-15",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1028",
+    "name": "Charlie Davis",
+    "email": "emp1028@company.com",
+    "department": "Sales",
+    "salary": 55058.83,
+    "hire_date": "2020-02-25",
+    "active": true,
+    "performance_score": 3.9
+  },
+  {
+    "id": "EMP-1029",
+    "name": "Frank Miller",
+    "email": "emp1029@company.com",
+    "department": "R&D",
+    "salary": 98135.84,
+    "hire_date": "2023-01-06",
+    "active": false,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1030",
+    "name": "Alice Miller",
+    "email": "emp1030@company.com",
+    "department": "Finance",
+    "salary": 142651.81,
+    "hire_date": "2023-05-14",
+    "active": false,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1031",
+    "name": "Eve Brown",
+    "email": "emp1031@company.com",
+    "department": "Finance",
+    "salary": 71770.09,
+    "hire_date": "2020-10-24",
+    "active": true,
+    "performance_score": 4.9
+  },
+  {
+    "id": "EMP-1032",
+    "name": "Kate Smith",
+    "email": "emp1032@company.com",
+    "department": "Engineering",
+    "salary": 108417.76,
+    "hire_date": "2021-01-17",
+    "active": true,
+    "performance_score": 3.8
+  },
+  {
+    "id": "EMP-1033",
+    "name": "Frank Johnson",
+    "email": "emp1033@company.com",
+    "department": "Engineering",
+    "salary": 128381.14,
+    "hire_date": "2021-07-04",
+    "active": true,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1034",
+    "name": "Sam Taylor",
+    "email": "emp1034@company.com",
+    "department": "Engineering",
+    "salary": 111938.15,
+    "hire_date": "2023-11-19",
+    "active": true,
+    "performance_score": 5.0
+  },
+  {
+    "id": "EMP-1035",
+    "name": "Ivy Brown",
+    "email": "emp1035@company.com",
+    "department": "Operations",
+    "salary": 73868.6,
+    "hire_date": "2023-03-22",
+    "active": true,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-1036",
+    "name": "Olivia Garcia",
+    "email": "emp1036@company.com",
+    "department": "Sales",
+    "salary": 50931.55,
+    "hire_date": "2020-02-18",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1037",
+    "name": "Quinn Jones",
+    "email": "emp1037@company.com",
+    "department": "Marketing",
+    "salary": 143325.94,
+    "hire_date": "2020-04-12",
+    "active": true,
+    "performance_score": 3.8
+  },
+  {
+    "id": "EMP-1038",
+    "name": "Frank Davis",
+    "email": "emp1038@company.com",
+    "department": "Finance",
+    "salary": 111167.78,
+    "hire_date": "2020-11-27",
+    "active": true,
+    "performance_score": 3.4
+  },
+  {
+    "id": "EMP-1039",
+    "name": "Diana Williams",
+    "email": "emp1039@company.com",
+    "department": "Finance",
+    "salary": 61542.87,
+    "hire_date": "2020-12-18",
+    "active": true,
+    "performance_score": 3.7
+  },
+  {
+    "id": "EMP-1040",
+    "name": "Ivy Jones",
+    "email": "emp1040@company.com",
+    "department": "HR",
+    "salary": 121761.22,
+    "hire_date": "2021-11-21",
+    "active": true,
+    "performance_score": 4.5
+  },
+  {
+    "id": "EMP-1041",
+    "name": "Quinn Davis",
+    "email": "emp1041@company.com",
+    "department": "Finance",
+    "salary": 140533.65,
+    "hire_date": "2020-02-21",
+    "active": false,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-1042",
+    "name": "Ivy Smith",
+    "email": "emp1042@company.com",
+    "department": "Engineering",
+    "salary": 83355.65,
+    "hire_date": "2021-11-09",
+    "active": true,
+    "performance_score": 4.5
+  },
+  {
+    "id": "EMP-1043",
+    "name": "Olivia Wilson",
+    "email": "emp1043@company.com",
+    "department": "Support",
+    "salary": 106090.69,
+    "hire_date": "2020-02-23",
+    "active": true,
+    "performance_score": 3.4
+  },
+  {
+    "id": "EMP-1044",
+    "name": "Rose Smith",
+    "email": "emp1044@company.com",
+    "department": "Finance",
+    "salary": 124825.02,
+    "hire_date": "2021-07-05",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1045",
+    "name": "Jack Garcia",
+    "email": "emp1045@company.com",
+    "department": "Engineering",
+    "salary": 139892.46,
+    "hire_date": "2021-11-08",
+    "active": true,
+    "performance_score": 4.9
+  },
+  {
+    "id": "EMP-1046",
+    "name": "Leo Wilson",
+    "email": "emp1046@company.com",
+    "department": "Support",
+    "salary": 147383.7,
+    "hire_date": "2021-04-28",
+    "active": true,
+    "performance_score": 3.9
+  },
+  {
+    "id": "EMP-1047",
+    "name": "Frank Miller",
+    "email": "emp1047@company.com",
+    "department": "Engineering",
+    "salary": 67936.07,
+    "hire_date": "2022-07-26",
+    "active": true,
+    "performance_score": 4.4
+  },
+  {
+    "id": "EMP-1049",
+    "name": "Olivia Garcia",
+    "email": "emp1049@company.com",
+    "department": "Finance",
+    "salary": 132053.64,
+    "hire_date": "2021-04-01",
+    "active": true,
+    "performance_score": 3.2
+  },
+  {
+    "id": "EMP-1050",
+    "name": "Maya Garcia",
+    "email": "emp1050@company.com",
+    "department": "Finance",
+    "salary": 136435.29,
+    "hire_date": "2022-06-21",
+    "active": false,
+    "performance_score": 4.9
+  },
+  {
+    "id": "EMP-1051",
+    "name": "Rose Garcia",
+    "email": "emp1051@company.com",
+    "department": "Engineering",
+    "salary": 61534.18,
+    "hire_date": "2022-03-19",
+    "active": true,
+    "performance_score": 4.2
+  },
+  {
+    "id": "EMP-1052",
+    "name": "Bob Johnson",
+    "email": "emp1052@company.com",
+    "department": "Support",
+    "salary": 84568.71,
+    "hire_date": "2022-07-20",
+    "active": true,
+    "performance_score": 3.5
+  },
+  {
+    "id": "EMP-1053",
+    "name": "Maya Taylor",
+    "email": "emp1053@company.com",
+    "department": "HR",
+    "salary": 75472.25,
+    "hire_date": "2023-01-17",
+    "active": true,
+    "performance_score": 3.3
+  },
+  {
+    "id": "EMP-1054",
+    "name": "Leo Miller",
+    "email": "emp1054@company.com",
+    "department": "Sales",
+    "salary": 144887.45,
+    "hire_date": "2022-10-11",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1055",
+    "name": "Jack Wilson",
+    "email": "emp1055@company.com",
+    "department": "Finance",
+    "salary": 116689.29,
+    "hire_date": "2022-07-23",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1056",
+    "name": "Rose Williams",
+    "email": "emp1056@company.com",
+    "department": "HR",
+    "salary": 105775.61,
+    "hire_date": "2023-11-24",
+    "active": true,
+    "performance_score": 3.2
+  },
+  {
+    "id": "EMP-1057",
+    "name": "Tina Taylor",
+    "email": "emp1057@company.com",
+    "department": "Finance",
+    "salary": 90607.52,
+    "hire_date": "2020-05-10",
+    "active": true,
+    "performance_score": 5.0
+  },
+  {
+    "id": "EMP-1058",
+    "name": "Noah Taylor",
+    "email": "emp1058@company.com",
+    "department": "Operations",
+    "salary": 96498.82,
+    "hire_date": "2023-11-07",
+    "active": false,
+    "performance_score": 4.8
+  },
+  {
+    "id": "EMP-1059",
+    "name": "Frank Johnson",
+    "email": "emp1059@company.com",
+    "department": "Finance",
+    "salary": 101545.2,
+    "hire_date": "2022-02-27",
+    "active": true,
+    "performance_score": 3.9
+  },
+  {
+    "id": "EMP-1060",
+    "name": "Jack Brown",
+    "email": "emp1060@company.com",
+    "department": "HR",
+    "salary": 64735.4,
+    "hire_date": "2020-04-16",
+    "active": true,
+    "performance_score": 3.2
+  },
+  {
+    "id": "EMP-1061",
+    "name": "Olivia Miller",
+    "email": "emp1061@company.com",
+    "department": "HR",
+    "salary": 121834.59,
+    "hire_date": "2023-08-13",
+    "active": true,
+    "performance_score": 4.7
+  },
+  {
+    "id": "EMP-1062",
+    "name": "Eve Smith",
+    "email": "emp1062@company.com",
+    "department": "Sales",
+    "salary": 136435.13,
+    "hire_date": "2021-03-26",
+    "active": false,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1063",
+    "name": "Bob Wilson",
+    "email": "emp1063@company.com",
+    "department": "HR",
+    "salary": 141747.0,
+    "hire_date": "2020-08-05",
+    "active": false,
+    "performance_score": 4.4
+  },
+  {
+    "id": "EMP-1064",
+    "name": "Quinn Wilson",
+    "email": "emp1064@company.com",
+    "department": "Operations",
+    "salary": 145003.96,
+    "hire_date": "2023-10-27",
+    "active": false,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1065",
+    "name": "Rose Davis",
+    "email": "emp1065@company.com",
+    "department": "Marketing",
+    "salary": 124365.54,
+    "hire_date": "2023-08-09",
+    "active": true,
+    "performance_score": 3.5
+  },
+  {
+    "id": "EMP-1066",
+    "name": "Ivy Wilson",
+    "email": "emp1066@company.com",
+    "department": "R&D",
+    "salary": 112674.84,
+    "hire_date": "2022-08-03",
+    "active": true,
+    "performance_score": 4.7
+  },
+  {
+    "id": "EMP-1067",
+    "name": "Henry Jones",
+    "email": "emp1067@company.com",
+    "department": "Operations",
+    "salary": 81970.96,
+    "hire_date": "2020-03-05",
+    "active": true,
+    "performance_score": 5.0
+  },
+  {
+    "id": "EMP-1068",
+    "name": "Maya Williams",
+    "email": "emp1068@company.com",
+    "department": "HR",
+    "salary": 56422.89,
+    "hire_date": "2023-06-18",
+    "active": false,
+    "performance_score": 3.5
+  },
+  {
+    "id": "EMP-1069",
+    "name": "Noah Smith",
+    "email": "emp1069@company.com",
+    "department": "HR",
+    "salary": 133289.12,
+    "hire_date": "2023-10-23",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1070",
+    "name": "Sam Miller",
+    "email": "emp1070@company.com",
+    "department": "R&D",
+    "salary": 50589.61,
+    "hire_date": "2022-05-25",
+    "active": false,
+    "performance_score": 3.8
+  },
+  {
+    "id": "EMP-1071",
+    "name": "Noah Wilson",
+    "email": "emp1071@company.com",
+    "department": "HR",
+    "salary": 98822.95,
+    "hire_date": "2022-07-16",
+    "active": true,
+    "performance_score": 4.8
+  },
+  {
+    "id": "EMP-1072",
+    "name": "Maya Garcia",
+    "email": "emp1072@company.com",
+    "department": "Support",
+    "salary": 122418.14,
+    "hire_date": "2023-03-20",
+    "active": true,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1074",
+    "name": "Frank Smith",
+    "email": "emp1074@company.com",
+    "department": "Finance",
+    "salary": 87910.39,
+    "hire_date": "2021-08-11",
+    "active": true,
+    "performance_score": 4.8
+  },
+  {
+    "id": "EMP-1075",
+    "name": "Maya Jones",
+    "email": "emp1075@company.com",
+    "department": "Support",
+    "salary": 75227.15,
+    "hire_date": "2020-08-01",
+    "active": true,
+    "performance_score": 4.7
+  },
+  {
+    "id": "EMP-1076",
+    "name": "Leo Brown",
+    "email": "emp1076@company.com",
+    "department": "Sales",
+    "salary": 128123.3,
+    "hire_date": "2020-01-08",
+    "active": true,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1077",
+    "name": "Alice Taylor",
+    "email": "emp1077@company.com",
+    "department": "Marketing",
+    "salary": 79197.74,
+    "hire_date": "2023-11-04",
+    "active": true,
+    "performance_score": 4.6
+  },
+  {
+    "id": "EMP-1078",
+    "name": "Olivia Jones",
+    "email": "emp1078@company.com",
+    "department": "Operations",
+    "salary": 66778.91,
+    "hire_date": "2020-03-10",
+    "active": true,
+    "performance_score": 3.8
+  },
+  {
+    "id": "EMP-1079",
+    "name": "Sam Smith",
+    "email": "emp1079@company.com",
+    "department": "Finance",
+    "salary": 107579.67,
+    "hire_date": "2023-07-23",
+    "active": true,
+    "performance_score": 4.9
+  },
+  {
+    "id": "EMP-1080",
+    "name": "Charlie Taylor",
+    "email": "emp1080@company.com",
+    "department": "HR",
+    "salary": 60190.13,
+    "hire_date": "2022-11-20",
+    "active": true,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1081",
+    "name": "Sam Smith",
+    "email": "emp1081@company.com",
+    "department": "Operations",
+    "salary": 110641.65,
+    "hire_date": "2022-02-17",
+    "active": true,
+    "performance_score": 4.6
+  },
+  {
+    "id": "EMP-1082",
+    "name": "Alice Miller",
+    "email": "emp1082@company.com",
+    "department": "R&D",
+    "salary": 60553.89,
+    "hire_date": "2022-11-27",
+    "active": false,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1083",
+    "name": "Eve Miller",
+    "email": "emp1083@company.com",
+    "department": "Marketing",
+    "salary": 123379.53,
+    "hire_date": "2022-10-26",
+    "active": false,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1084",
+    "name": "Olivia Miller",
+    "email": "emp1084@company.com",
+    "department": "Finance",
+    "salary": 82230.46,
+    "hire_date": "2021-02-09",
+    "active": false,
+    "performance_score": 4.2
+  },
+  {
+    "id": "EMP-1085",
+    "name": "Henry Davis",
+    "email": "emp1085@company.com",
+    "department": "Support",
+    "salary": 83639.66,
+    "hire_date": "2023-06-06",
+    "active": false,
+    "performance_score": 5.0
+  },
+  {
+    "id": "EMP-1086",
+    "name": "Grace Garcia",
+    "email": "emp1086@company.com",
+    "department": "Finance",
+    "salary": 84033.88,
+    "hire_date": "2022-09-01",
+    "active": true,
+    "performance_score": 4.0
+  },
+  {
+    "id": "EMP-1087",
+    "name": "Charlie Brown",
+    "email": "emp1087@company.com",
+    "department": "Support",
+    "salary": 98857.78,
+    "hire_date": "2021-12-16",
+    "active": false,
+    "performance_score": 3.3
+  },
+  {
+    "id": "EMP-1088",
+    "name": "Olivia Smith",
+    "email": "emp1088@company.com",
+    "department": "Finance",
+    "salary": 92837.75,
+    "hire_date": "2023-12-08",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1089",
+    "name": "Sam Garcia",
+    "email": "emp1089@company.com",
+    "department": "R&D",
+    "salary": 105347.3,
+    "hire_date": "2022-07-24",
+    "active": true,
+    "performance_score": 3.7
+  },
+  {
+    "id": "EMP-1090",
+    "name": "Leo Davis",
+    "email": "emp1090@company.com",
+    "department": "Finance",
+    "salary": 80662.3,
+    "hire_date": "2021-02-24",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1092",
+    "name": "Diana Brown",
+    "email": "emp1092@company.com",
+    "department": "Finance",
+    "salary": 72748.32,
+    "hire_date": "2021-05-01",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1093",
+    "name": "Ivy Smith",
+    "email": "emp1093@company.com",
+    "department": "Engineering",
+    "salary": 105335.9,
+    "hire_date": "2021-11-28",
+    "active": false,
+    "performance_score": 3.9
+  },
+  {
+    "id": "EMP-1094",
+    "name": "Diana Smith",
+    "email": "emp1094@company.com",
+    "department": "Finance",
+    "salary": 115181.69,
+    "hire_date": "2023-06-06",
+    "active": true,
+    "performance_score": 3.6
+  },
+  {
+    "id": "EMP-1095",
+    "name": "Ivy Davis",
+    "email": "emp1095@company.com",
+    "department": "Sales",
+    "salary": 132211.56,
+    "hire_date": "2023-08-03",
+    "active": true,
+    "performance_score": 3.4
+  },
+  {
+    "id": "EMP-1096",
+    "name": "Eve Williams",
+    "email": "emp1096@company.com",
+    "department": "Finance",
+    "salary": 58518.09,
+    "hire_date": "2021-02-18",
+    "active": false,
+    "performance_score": 4.4
+  },
+  {
+    "id": "EMP-1097",
+    "name": "Tina Taylor",
+    "email": "emp1097@company.com",
+    "department": "HR",
+    "salary": 127569.35,
+    "hire_date": "2023-08-15",
+    "active": true,
+    "performance_score": 4.1
+  },
+  {
+    "id": "EMP-1098",
+    "name": "Sam Miller",
+    "email": "emp1098@company.com",
+    "department": "Finance",
+    "salary": 106862.95,
+    "hire_date": "2020-10-24",
+    "active": true,
+    "performance_score": 3.5
+  },
+  {
+    "id": "EMP-1099",
+    "name": "Grace Brown",
+    "email": "emp1099@company.com",
+    "department": "Finance",
+    "salary": 130003.3,
+    "hire_date": "2021-04-06",
+    "active": true,
+    "performance_score": 4.6
+  },
+  {
+    "id": "EMP-2000",
+    "name": "New Employee 1",
+    "email": "new1@company.com",
+    "department": "Sales",
+    "salary": 116560.57,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 3.1
+  },
+  {
+    "id": "EMP-2001",
+    "name": "New Employee 2",
+    "email": "new2@company.com",
+    "department": "Marketing",
+    "salary": 92398.89,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 4.5
+  },
+  {
+    "id": "EMP-2002",
+    "name": "New Employee 3",
+    "email": "new3@company.com",
+    "department": "Sales",
+    "salary": 64826.51,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 4.4
+  },
+  {
+    "id": "EMP-2003",
+    "name": "New Employee 4",
+    "email": "new4@company.com",
+    "department": "Engineering",
+    "salary": 113365.37,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 4.6
+  },
+  {
+    "id": "EMP-2004",
+    "name": "New Employee 5",
+    "email": "new5@company.com",
+    "department": "Marketing",
+    "salary": 79339.3,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 3.8
+  },
+  {
+    "id": "EMP-2005",
+    "name": "New Employee 6",
+    "email": "new6@company.com",
+    "department": "Sales",
+    "salary": 61551.89,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 4.3
+  },
+  {
+    "id": "EMP-2006",
+    "name": "New Employee 7",
+    "email": "new7@company.com",
+    "department": "Engineering",
+    "salary": 117714.67,
+    "hire_date": "2024-01-15",
+    "active": true,
+    "performance_score": 4.6
+  }
+]
